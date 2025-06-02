@@ -27,13 +27,13 @@ Cut flowers and ornemantal plants are key products in Sri Lanka's floriculture i
 ![Philo finder](assets/img115.jpg)
 
 ## Project Snapshots
-![screen1](assets/pic1.png)
+<img src="assets/pic1.png" width="600"/>
 <br>
-![screen2](assets/cut.png)
+<img src="assets/cut.png" width="600"/>
 <br>
-![screen3](assets/philo.png)
+<img src="assets/philo.png" width="600"/>
 <br>
-![screen4](assets/val.png)
+<img src="assets/val.png" width="600"/>
 
 
 ## Tech Stack
