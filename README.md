@@ -1,8 +1,6 @@
 # PlantPal_"For Beginners"
 A cross-platform mobile application developed as part of a final year research project, aimed at assisting beginners in Sri Lankan floriculture with **cut flower crop selection** and **Philodendron variety identification** using affordable technologies.
 
-🔒 *Full source code not publicly available due to unpublished components. This repository includes project summary, research insights, and selected visuals.*
-
 ## Research Problem
 
 Cut flowers and ornemantal plants are key products in Sri Lanka's floriculture industry, but beginner growers often struggle with:
@@ -14,29 +12,31 @@ Cut flowers and ornemantal plants are key products in Sri Lanka's floriculture i
 ✅ This app bridges this gap with **accessible technology**
 
 ## Overall Architecture
-add arch diagram
+![Architecture](assets/img10.jpg)
 
 ### 1️⃣ Cutflower Advisor  
-add image
+- Machine learning–based model  
+- Crop recommendation based on weather (via OpenWeather API)  
+- Factors considered: temperature, humidity, infrastructure
+![Cutflower advisor](assets/img63.jpg)
 
 ### 2️⃣ Philovariety Finder  
-add image
-
+- Image classification model to identify Philodendron varieties  
+- Built using CNNs and trained on a custom dataset
+- Out-of-scope image detection using DL
+![Philo finder](assets/img115.jpg)
 
 ## Project Snapshots
+![screen1](assets/pic1.png)
+<br>
+![screen2](assets/cut.png)
+<br>
+![screen3](assets/philo.png)
+<br>
+![screen4](assets/val.png)
 
 
-### Crop Selection Interface  
-![Crop Selection](images/crop-selection-ui.png)
-
-### Variety Identification Flow  
-![Variety Detection](images/philovariety-ui.png)
-
-### Architecture Diagram  
-![Architecture](images/architecture.png)
-
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React Native** – Cross-platform mobile development  
 - **Python + Flask** – Backend + model hosting  
