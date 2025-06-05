@@ -2,7 +2,7 @@
 A cross-platform mobile application developed as part of a final year research project, aimed at assisting beginners in Sri Lankan floriculture with **cut flower crop selection** and **Philodendron variety identification** using affordable technologies.
 
 🎥 [Watch the Demo Video – For Beginners](https://drive.google.com/file/d/17ESl_IgraUW7NrdDmCa2lwNnLZuLHgtz/view)
-<video src="assets/Beginners%20Plantpal%20Demo.mp4" controls width="600"></video>
+<video src="assets/demo.mp4" controls width="600"></video>
 
 
 ## Research Problem
