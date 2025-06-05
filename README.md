@@ -1,6 +1,8 @@
 # PlantPal_"For Beginners"
 A cross-platform mobile application developed as part of a final year research project, aimed at assisting beginners in Sri Lankan floriculture with **cut flower crop selection** and **Philodendron variety identification** using affordable technologies.
 
+(🎥 [Watch the Demo Video](https://drive.google.com/file/d/your_video_id/view))
+
 ## Research Problem
 
 Cut flowers and ornemantal plants are key products in Sri Lanka's floriculture industry, but beginner growers often struggle with:
